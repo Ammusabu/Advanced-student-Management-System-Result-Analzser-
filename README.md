@@ -5,6 +5,7 @@ A lightweight, single-file school management dashboard for tracking students, se
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![No Backend](https://img.shields.io/badge/backend-none-lightgrey) ![Deployed on Netlify](https://img.shields.io/badge/deployed-Netlify-00C7B7)
 
 🔗 **Live Demo:** [student-result-analysis.netlify.app](https://student-result-analysis.netlify.app/)
+<img width="1920" height="1088" alt="image" src="https://github.com/user-attachments/assets/7720465f-b930-46f1-9645-119313649d68" />
 
 ## Overview
 
@@ -61,7 +62,7 @@ No installation or build process is required.
 2. Open the file directly in any modern web browser (Chrome, Firefox, Edge, Safari).
 
 ```bash
-git clone https://github.com/your-username/edutrack-pro.git
+git clone https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-.git
 cd edutrack-pro
 open index.html   # or double-click the file
 ```
